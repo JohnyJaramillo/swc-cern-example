@@ -1,0 +1,3 @@
+- chop avocados
+- chop lime
+- add salt
